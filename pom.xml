@@ -90,8 +90,8 @@
 
 
 	<properties>
-		<main-class>net.imagej.Main</main-class>
-		<package-name>org.morphonets</package-name>
+		<main-class>com.github.ida_mdc.Main</main-class>
+		<package-name>com.github.ida_mdc</package-name>
 
 		<enforcer.skip>true</enforcer.skip>
 

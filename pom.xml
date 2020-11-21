@@ -9,17 +9,17 @@
 		<relativePath />
 	</parent>
 
-	<groupId>org.morphonets</groupId>
+	<groupId>com.github.ida_mdc</groupId>
 	<artifactId>radialsymmetrylocalization-hips</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<name>radialsymmetrylocalization-hips</name>
 	<description>The radialsymmetrylocalization-hips ImageJ update site.</description>
 	<url>https://morphonets.org</url>
-	<inceptionYear>2019</inceptionYear>
+	<inceptionYear>2020</inceptionYear>
 	<organization>
-		<name>Morphonets</name>
-		<url>https://morphonets.org</url>
+		<name>ida-mdc</name>
+		<url>https://github.com/ida-mdc</url>
 	</organization>
 	<licenses>
 		<license>
@@ -91,7 +91,7 @@
 
 	<properties>
 		<main-class>com.github.ida_mdc.Main</main-class>
-		<package-name>com.github.ida_mdc</package-name>
+		<package-name>org.morphonets</package-name>
 
 		<enforcer.skip>true</enforcer.skip>
 

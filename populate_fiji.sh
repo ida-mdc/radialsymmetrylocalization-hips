@@ -180,7 +180,12 @@ echo "--> Fetching hIPNAT"
 #  esac
 #done
 
+mv $FijiDirectory/jars/RadialSymmetryLocalization* $FijiDirectory/plugins
+
 ls $FijiDirectory/jars
+ls $FijiDirectory/plugins
+
+
 
 # -- Now that we populated fiji, let's double check that it works --
 

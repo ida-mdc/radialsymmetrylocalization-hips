@@ -103,6 +103,7 @@
 <!--		<releaseProfiles>deploy-to-scijava</releaseProfiles>-->
 
 		<radialsymmetrylocalization.version>835178b</radialsymmetrylocalization.version>
+
 	</properties>
 
 	<repositories>

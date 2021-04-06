@@ -180,12 +180,13 @@ echo "--> Fetching hIPNAT"
 #  esac
 #done
 
+# Move RadialSymmetryLocalization to plugins, and add an underscore
+
 mv $FijiDirectory/jars/RadialSymmetryLocalization* $FijiDirectory/plugins
+for j in $FijiDirectory/plugins/RadialSymmetryLocalization-*; do mv -- "$j" "${j%.jar}_.jar"; done
 
 ls $FijiDirectory/jars
 ls $FijiDirectory/plugins
-
-
 
 # -- Now that we populated fiji, let's double check that it works --
 

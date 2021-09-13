@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>org.scijava</groupId>
 		<artifactId>pom-scijava</artifactId>
-		<version>29.0.0-beta-2</version>
+		<version>30.0.0</version>
 		<relativePath />
 	</parent>
 
@@ -102,7 +102,7 @@
 		<!-- NB: Deploy releases to the SciJava Maven repository. -->
 <!--		<releaseProfiles>deploy-to-scijava</releaseProfiles>-->
 
-		<radialsymmetrylocalization.version>71d1612</radialsymmetrylocalization.version>
+		<radialsymmetrylocalization.version>8e629e2</radialsymmetrylocalization.version>
 
 	</properties>
 

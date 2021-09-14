@@ -102,7 +102,7 @@
 		<!-- NB: Deploy releases to the SciJava Maven repository. -->
 <!--		<releaseProfiles>deploy-to-scijava</releaseProfiles>-->
 
-		<radialsymmetrylocalization.version>8e53110</radialsymmetrylocalization.version>
+		<radialsymmetrylocalization.version>0f6ab4a</radialsymmetrylocalization.version>
 
 	</properties>
 
